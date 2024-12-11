@@ -20,7 +20,8 @@ This Android application is a comprehensive news aggregation app that fetches an
 - **app**: Main application module, orchestrates app-level dependencies and configurations
 - **common**: Shared utilities, extensions, and common components used across modules
 - **designsystem**: Centralized design resources, custom UI components, and theme definitions
-- **domain**: Core business logic, use cases, and domain models
+- **data**: Implements data sources and repositories
+- **domain**: Use cases and domain models
 - **feature:home**: Home screen implementation with top headlines list
 - **feature:detail**: Detailed article view and interactions
 - **feature:archive**: Offline news storage and archived articles management
