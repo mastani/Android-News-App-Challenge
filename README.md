@@ -26,3 +26,6 @@ This Android application is a comprehensive news aggregation app that fetches an
 - **feature:detail**: Detailed article view and interactions
 - **feature:archive**: Offline news storage and archived articles management
 - **feature:search**: Search functionality and related UI components
+
+#### Releases
+Link to release apk file: [https://github.com/mastani/Android-News-App-Challenge/releases/download/v1/app-production-site-release.apk](https://github.com/mastani/Android-News-App-Challenge/releases/tag/v1)
